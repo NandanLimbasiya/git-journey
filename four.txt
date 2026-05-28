@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-four 44 666666
-=======
-four 44 666666
-
->>>>>>> development
+four
+444
